@@ -1,0 +1,8 @@
+<!doctype html>
+<body>
+<span style='color:red; font-size:100px; text-decoration:overline'>Inline styles---!!</span>
+<br/>
+<span style='color:green; font-size:20px; text-decoration:underline'>Inline styles---!!</span>
+<br/>
+<span style='color:blue; font-size:300px; text-decoration:line through'>Inline styles---!!</span>
+</body>
